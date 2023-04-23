@@ -1,0 +1,389 @@
+{
+
+"tipos de vinos" :[
+    {
+        "id": 1,
+        "nombre": "San Cellars Cabernet Sauvignon Oakville Double Diamond",
+        "Pais": "Estado Unidos",
+        "Region": "Oakville",
+        "Bodega": "Schrader",
+        "Tipo de Vino": "Tinto",
+        "Uva" : "Cabernet Sauvignon"
+
+},
+
+{
+    "id":2,
+    "nombre":"Fattoria dei Barbi Brunello di Montalcino Riserva",
+    "Pais" : "Italia",
+    "Region":"Fattoria dei Barbi",
+    "Bodega": "Brunello di Montalcino",
+    "Tipo de Vino":	"Tinto",
+    "Uva" : "Sangiovese",
+    "Añada":2016,
+    "Puntuación":95,
+    "Precio":130
+},
+
+{
+    "id":3,
+    "nombre":"HdV Chardonnay Napa Valley Hyde Vineyard",
+    "Pais": "Estado Unidos",
+    "Region": "Valle de Napa",
+    "Bodega":"HDV",
+    "Tipo de Vino": "Tinto",
+    "Uva" :	"Mezcla",
+    "Añada": 2019,
+    "Puntuación":96,
+    "Precio":78
+},
+{
+    "id":4,
+    "nombre":"Château Talbot St.-Julien",
+    "Pais" :"Francia",
+    "Region": "Saint-Julien",
+    "Bodega": "Château Talbot",
+    "Tipo de Vino":	"Tinto",
+    "Uva":"Cabernet Sauvignon",
+    "Añada":2019,
+    "Puntuación":95,
+    "Precio":65
+},
+{
+    "id":5,
+    "nombre":"Antinori Toscana Tignanello",
+    "Pais" :"Italia",
+    "Region":"Toscana",
+    "Bodega":"Antinori",
+    "Tipo de Vino":"Tinto",
+    "Uva": "Mezcla",
+    "Añada":2019,
+    "Puntuación":96,
+    "Precio":145
+},
+{
+    "id":6,
+    "nombre":"Robert Mondavi Cabernet Sauvignon Oakville The Estates",
+    "Pais" :"Estado Unidos",
+    "Region":"Oakville",
+    "Bodega":"Robert Mondavi Winery",
+    "Tipo de Vino":"Tinto",
+    "Uva": "Cabernet Sauvignon",
+    "Añada":2019,
+    "Puntuación":94,
+    "Precio":85
+},
+{
+    "id":7,
+    "nombre":"Château de Beaucastel Châteauneuf-du-Pape",
+    "Pais" :"Francia",
+    "Region":"Châteauneuf-du-Pape",
+    "Bodega":"Château de Beaucastel",
+    "Tipo de Vino":"Tinto",
+    "Uva": "Grenache",
+    "Añada": 2019,
+    "Puntuación":96,
+    "Precio":121
+},
+{
+    "id":8,
+    "nombre":"Fattoria Le Pupille Toscana Saffredi",
+    "Pais" :"Italia",
+    "Region":"Maremma Toscana",
+    "Bodega":"Fattoria le Pupille",
+    "Tipo de Vino":"Tinto",
+    "Uva": "Cabernet Sauvignon",
+    "Añada":2019,
+    "Puntuación":96,
+    "Precio":100
+},
+{
+    "id":9,
+    "nombre":"Quilceda Creek Cabernet Sauvignon Columbia Valley",
+    "Pais" :"Estados Unidos",
+    "Region":"Columbia Valley",
+    "Bodega":"Quilceda Creek",
+    "Tipo de Vino":"Tinto",
+    "Uva": "Cabernet Sauvignon",
+    "Añada": 2018,
+    "Puntuación":95,
+    "Precio":200
+},
+{
+    "id":10,
+    "nombre":"Louis Roederer Brut Champagne Cristal",
+    "Pais": "Francia",
+    "Region":"Champán",
+    "Bodega":"Louis Roederer",
+    "Tipo de Vino": "Espumoso",
+    "Uva":"Pinot Noir",
+    "Añada":2014,
+    "Puntuación":98,
+    "Precio":359
+},
+{
+    "id":11,
+    "nombre":"Château Beau-Séjour Bécot St.-Emilion",
+    "Pais": "Francia",
+    "Region":"Saint-Émilion Grand Cru",
+    "Bodega":"Château Beau-Sejour Becot",
+    "Tipo de Vino": "Tinto",
+    "Uva": "Merlot",
+    "Añada":2019,
+    "Puntuación":95,
+    "Precio":61
+},
+{
+    "id":12,
+    "nombre":"Grattamacco Bolgheri Superiore",
+    "Pais": "Italia",
+    "Region":"Bolgheri Superiore",
+    "Bodega":"Grattamacco",
+    "Tipo de Vino": "Tinto",
+    "Uva": "Mezcla",
+    "Añada":2019,
+    "Puntuación":97,
+    "Precio":100
+},
+{
+    "id":13,
+    "nombre":"Greywacke Sauvignon Blanc Marlborough",
+    "Pais": "Nueva Zelanda",
+    "Region":"Marlborough",
+    "Bodega":"Greywacke",
+    "Tipo de Vino": "Blanco",
+    "Uva": "Sauvignon Blanc",
+    "Añada":2021,
+    "Puntuación":94,
+    "Precio":23
+},
+{
+    "id":14,
+    "nombre":"Philip Togni Cabernet Sauvignon Napa Valley",
+    "Pais": "Estados Unidos",
+    "Region":"Valle de Napa",
+    "Bodega":"Philip Togni",
+    "Tipo de Vino": "Tinto",
+    "Uva": "Cabernet Sauvignon",
+    "Añada":2019,
+    "Puntuación":96,
+    "Precio":150
+},
+{
+    "id":15,
+    "nombre":"Drouhin Oregon Roserock Chardonnay Eola-Amity Hills",
+    "Pais": "Estados Unidos",
+    "Region":"Eola-Amity Hills",
+    "Bodega":"RoseRock",
+    "Tipo de Vino": "Blanco",
+    "Uva": "Chardonnay",
+    "Añada":2020,
+    "Puntuación":94,
+    "Precio":38
+},
+{
+    "id":16,
+    "nombre":"McPrice Myers Beautiful Earth Paso Robles",
+    "Pais": "Estados Unidos",
+    "Region":"Paso Robles",
+    "Bodega":"McPrice Myers",
+    "Tipo de Vino": "Blanco",
+    "Uva": "Grenache Blanc",
+    "Añada":2020,
+    "Puntuación":94,
+    "Precio":45
+},
+{
+    "id":17,
+    "nombre":"Bodegas Caro Malbec-Cabernet Sauvignon Mendoza Amancaya",
+    "Pais": "Argentina",
+    "Region":"Mendoza",
+    "Bodega":"Caro (Catena and Rothschild)",
+    "Tipo de Vino": "Tinto",
+    "Uva": "Malbec",
+    "Añada":2020,
+    "Puntuación":93,
+    "Precio":23
+},
+{
+    "id":18,
+    "nombre":"Giant Steps Pinot Noir Yarra Valley",
+    "Pais": "Australia",
+    "Region":"Yarra Valley",
+    "Bodega":"Giant Steps",
+    "Tipo de Vino": "Tinto",
+    "Uva": "Pinot Noir",
+    "Añada":2021,
+    "Puntuación":94,
+    "Precio":40
+},
+{
+    "id":19,
+    "nombre":"Schramsberg Brut Blanc de Blancs North Coast",
+    "Pais": "Estados Unidos",
+    "Region":"Costa Norte",
+    "Bodega":"Schramsberg",
+    "Tipo de Vino":"Espumoso",
+    "Uva": "Chardonnay",
+    "Añada":2018,
+    "Puntuación":93,
+    "Precio":41
+},
+{
+    "id":20,
+    "nombre":"Burn Cottage Pinot Noir Central Otago Burn Cottage Vineyard",
+    "Pais": "Nueva Zelanda",
+    "Region":"Central Otago",
+    "Bodega":"Burn Cottage",
+    "Tipo de Vino": "Tinto",
+    "Uva": "Pinot Noir",
+    "Añada":2019,
+    "Puntuación":96,
+    "Precio":65
+},
+{
+    "id":21,
+    "nombre":"Viña Montes Syrah Colchagua Valley Alpha",
+    "Pais": "Chile",
+    "Region":"Valle de Colchagua",
+    "Bodega":"Montes",
+    "Tipo de Vino": "Tinto",
+    "Uva": "Cabernet Sauvignon",
+    "Añada":2019,
+    "Puntuación":93,
+    "Precio":20
+},
+{
+    "id":22,
+    "nombre":"Capraia Chianti Classico Riserva",
+    "Pais": "Italia",
+    "Region":"Chianti Classico",
+    "Bodega":"Capraia",
+    "Tipo de Vino": "Tinto",
+    "Uva": "Sangiovese",
+    "Añada":2018,
+    "Puntuación":94,
+    "Precio":27
+},
+{
+    "id":23,
+    "nombre":"Finca Decero Malbec Agrelo Remolinos Vineyard",
+    "Pais": "Argentina",
+    "Region":"Agrelo",
+    "Bodega":"Finca Decero",
+    "Tipo de Vino": "Tinto",
+    "Uva": "Malbec",
+    "Añada":2019,
+    "Puntuación":92,
+    "Precio":22
+},
+{
+    "id":24,
+    "nombre":"San Felice Chianti Classico",
+    "Pais": "",
+    "Region":"",
+    "Bodega":"",
+    "Tipo de Vino": "",
+    "Uva": "",
+    "Añada":2020,
+    "Puntuación":92,
+    "Precio":20
+},
+
+{ "id": 25,
+    "nombre": "Fleurs de Prairie Côtes de Provence",
+    "Pais" :"Francia",
+    "Region": "Côtes de Provence",
+    "Bodega": "Fleurs de Prairie",
+    "Tipo de Vino": "Rosado",
+    "Uva": "Grenache",
+    "Precio": 11.14
+},
+
+{
+    "id": 26,
+    "nombre":"Bodegas del Viento Ru Rosa de Uva",
+    "Pais":"Mexico",
+    "Region":"Coahuila",
+    "Bodega":"Bodegas del Viento",
+    "Tipo de Vino":"Rosado",
+    "Uva":"Mezcla",
+    "Precio":15.14
+},
+
+{
+    "id":27,
+    "nombre":"Hanzell Pinot Noir Sonoma Valley",
+    "Pais": "",
+    "Region":"",
+    "Bodega":"",
+    "Tipo de Vino": "",
+    "Uva": "",
+    "Añada":2019,
+    "Puntuación":95,
+    "Precio":98
+},
+{
+    "id":28,
+    "nombre":"First Drop Shiraz Barossa Mother’s Milk",
+    "Pais": "",
+    "Region":"",
+    "Bodega":"",
+    "Tipo de Vino": "",
+    "Uva": "",
+    "Añada":2020,
+    "Puntuación":92,
+    "Precio":20
+},
+{
+    "id":29,
+    "nombre":"McBride Sisters Collection Sauvignon Blanc Marlborough",
+    "Pais": "",
+    "Region":"",
+    "Bodega":"",
+    "Tipo de Vino": "",
+    "Uva": "",
+    "Añada":2021,
+    "Puntuación":91,
+    "Precio":17
+},
+{
+    "id":30,
+    "nombre":"Alma de Cattleya Sauvignon Blanc Sonoma County",
+    "Pais": "",
+    "Region":"",
+    "Bodega":"",
+    "Tipo de Vino": "",
+    "Uva": "",
+    "Añada":2021,
+    "Puntuación":92,
+    "Precio":22
+},
+{
+    "id":31,
+    "nombre":"Josep Maria Raventós i Blanc Brut Blanc de Blancs Vino Espumoso",
+    "Pais": "",
+    "Region":"",
+    "Bodega":"",
+    "Tipo de Vino": "",
+    "Uva": "",
+    "Añada":2020,
+    "Puntuación":91,
+    "Precio":23
+},
+{
+    "id":32,
+    "nombre":"DeLille D2 Columbia Valley",
+    "Pais": "",
+    "Region":"",
+    "Bodega":"",
+    "Tipo de Vino": "",
+    "Uva": "",
+    "Añada":2019,
+    "Puntuación":94,
+    "Precio":50
+}
+
+]
+
+}
